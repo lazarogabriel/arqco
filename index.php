@@ -516,7 +516,7 @@
 							<div class="single-footer-widget">
 								<h4 class="text-white">Telefono/WhatsApp</h4>
 								<p class="number">
-									  011 5767 5561<br>
+									  11 6727 5561<br>
 								</p>
 							</div>
 						</div>
