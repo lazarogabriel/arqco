@@ -488,7 +488,7 @@
 							</div>
 						</div>
 					</div>
-					<form class="form-area mt-60" id="myForm" action="mail.php" method="post" class="contact-form text-right">
+					<form class="form-area mt-60" id="myForm" method="post" class="contact-form text-right">
 						<div class="row">
 						<div class="col-lg-6 form-group">
 							<input name="name" placeholder="Introduzca su nombre" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Introduzca su nombre'" class="common-input mb-20 form-control" required="" type="text">
